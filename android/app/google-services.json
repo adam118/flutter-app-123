@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600859559143",
+    "firebase_url": "https://offers-app-jordan.firebaseio.com",
+    "project_id": "offers-app-jordan",
+    "storage_bucket": "offers-app-jordan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600859559143:android:e2922e6bcb2ec26f284e42",
+        "android_client_info": {
+          "package_name": "com.beejo.offer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600859559143-4ertgpj26cnvl4c266lq4hobkn4b2esj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-nGVYSMNAvM4vR8-sPWaVdikDLUqVFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600859559143-4ertgpj26cnvl4c266lq4hobkn4b2esj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
